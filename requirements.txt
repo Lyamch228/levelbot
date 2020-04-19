@@ -1,0 +1,8 @@
+discord.py
+aiohttp
+websockets
+nekos.py
+youtube-dl
+asyncpg
+timeago
+git+git://github.com/Rapptz/discord.py.git
